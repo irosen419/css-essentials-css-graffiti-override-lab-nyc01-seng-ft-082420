@@ -4,6 +4,11 @@
 #wall * {
     z-index: 7;
     display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
 }
 
 #wall div#tag-2 {

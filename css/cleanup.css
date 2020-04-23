@@ -3,15 +3,15 @@
 
 #wall * {
     z-index: 7;
-    display: none;
+    display: block;
 }
 
 #wall div#tag-2 {
   z-index: 7;
-  display: none;
+  display: block;
 }
 
 div#wall div#tag-3.slick {
   z-index: 7;
-  display: none;
+  display: block;
 }

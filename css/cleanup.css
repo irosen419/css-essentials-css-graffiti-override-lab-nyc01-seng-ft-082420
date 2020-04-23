@@ -10,6 +10,10 @@
     display: block;
 }
 
+div#wall div.tag-1 {
+  
+}
+
 #wall div#tag-2 {
   z-index: 7;
   display: block;

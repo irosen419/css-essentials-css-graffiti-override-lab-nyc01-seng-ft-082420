@@ -2,13 +2,11 @@
 /* write your override styles here */
 
 #wall * {
-    background: url(../images/tag-1.png) no-repeat;
     z-index: 7;
     display: none;
 }
 
 .tag-1 ~ div {
-  background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
   display: none;
 }

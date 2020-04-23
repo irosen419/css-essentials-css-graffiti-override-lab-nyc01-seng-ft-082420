@@ -11,7 +11,7 @@
   display: none;
 }
 
-div#wall div#tag-3.stick {
+div#wall #tag-3.stick {
   z-index: 7;
   display: none;
 }

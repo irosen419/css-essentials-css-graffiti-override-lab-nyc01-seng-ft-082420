@@ -9,6 +9,11 @@
 #wall div#tag-2 {
   z-index: 7;
   display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
 }
 
 div#wall div#tag-3.slick {

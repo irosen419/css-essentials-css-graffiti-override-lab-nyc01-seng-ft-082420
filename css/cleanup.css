@@ -2,13 +2,12 @@
 /* write your override styles here */
 
 #wall * {
-    z-index: 7;
-    display: block;
     position: absolute;
     top: 0;
     left: 0;
     width: 980px;
     height: 622px;
+    display: block;
 }
 
 #wall div#tag-2 {

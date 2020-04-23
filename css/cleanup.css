@@ -6,7 +6,7 @@
     display: none;
 }
 
-.tag-1 ~ div {
+#tag-2 + div {
   z-index: 7;
   display: none;
 }
